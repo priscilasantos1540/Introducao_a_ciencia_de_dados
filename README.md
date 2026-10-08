@@ -2,10 +2,42 @@
 Atividade 29/09/2026
 Atividade Prática: Análise prévia de dataset
 Requisitos da análise
-1. O que é o dataset?
-2. Número de instâncias.
-3. Números de características.
-4. Tipos de cada característica (nominais, oridinais,continuas, discretas).
+### O que é o dataset?
+
+O dataset utilizado neste trabalho é uma base de dados do **Sistema de
+Informação de Agravos de Notificação (SINAN)**, referente às notificações
+de dengue.
+
+A base possui **465.323 instâncias**, correspondentes aos registros de
+notificações, e **121 características**, que representam os campos
+disponíveis na ficha de notificação.
+
+As características apresentam diferentes naturezas estatísticas,
+podendo ser classificadas como nominais, ordinais, discretas e
+contínuas, de acordo com o significado e as categorias definidas no
+Dicionário de Dados do SINAN Dengue.
+
+As variáveis nominais representam categorias sem ordem natural, como
+sexo, UF e município. As variáveis ordinais apresentam categorias que
+possuem uma ordem, como escolaridade. As variáveis discretas
+representam valores contáveis ou inteiros, como semana e ano. As
+variáveis contínuas representam informações em escala temporal, como
+as datas registradas na notificação.
+
+### Classificação das características
+
+As características do dataset foram classificadas de acordo com
+o significado das variáveis apresentado no Dicionário de Dados
+do **SINAN** Dengue.
+
+**A classificação considera quatro tipos:**
+
+- Nominais: representam categorias sem ordem natural.
+- Ordinais: representam categorias que possuem uma ordem natural.
+- Discretas: representam valores contáveis ou inteiros.
+- Contínuas: representam medidas em uma escala contínua. Neste dataset,
+  as variáveis temporais (datas) foram consideradas como variáveis contínuas
+  de natureza temporal.
 
 Sugestões e Observações
 Sugestão de fontes: Dados do IBGE, DATASUS, INEP, IPEAdata, entre outros.
