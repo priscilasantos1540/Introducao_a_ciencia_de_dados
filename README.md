@@ -221,11 +221,17 @@ O objetivo desta atividade é conhecer e caracterizar o conjunto de dados utiliz
 
 ## Tecnologias utilizadas
 
-- Python
-- Google Colab
-- Pandas
-- NumPy
-- GitHub
+## Tecnologias utilizadas
+
+- **Python** — linguagem de programação utilizada na análise dos dados.
+- **Google Colab** — ambiente para executar os códigos e documentar a análise.
+- **Pandas** — carregamento, organização e manipulação dos dados.
+- **NumPy** — suporte a operações numéricas e computacionais.
+- **Matplotlib** — criação de gráficos básicos e visualizações.
+- **Seaborn** — criação de gráficos estatísticos e análise exploratória.
+- **Plotly Express** — criação de gráficos interativos.
+- **GitHub** — armazenamento, versionamento e compartilhamento do projeto.
+- **SINAN/DATASUS — Dados Abertos do Ministério da Saúde** — fonte dos dados de dengue utilizados no projeto.
 
 ## Organização do projeto
 
