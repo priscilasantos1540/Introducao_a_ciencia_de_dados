@@ -1,8 +1,11 @@
-# Introducao_a_ciencia_de_dados
--Atividade 29/09/2026
--Matéria: Introdução a Ciência de dados
--Profª Ana Palloma Rocha Fernandes
--Atividade Prática: Análise prévia de dataset
+# Análise Dataset SINAN 2026
+Atividade 29/09/2026
+
+Matéria: Introdução a Ciência de dados
+
+Profª Ana Palloma Rocha Fernandes
+
+Atividade Prática: Análise prévia de dataset
 Requisitos da análise
 ### O que é o dataset?
 
