@@ -226,8 +226,6 @@ O objetivo desta atividade é conhecer e caracterizar o conjunto de dados utiliz
 
 ## Tecnologias utilizadas
 
-## Tecnologias utilizadas
-
 - **Python** — linguagem de programação utilizada na análise dos dados.
 - **Google Colab** — ambiente para executar os códigos e documentar a análise.
 - **Pandas** — carregamento, organização e manipulação dos dados.
