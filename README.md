@@ -248,6 +248,7 @@ SINAN-Dengue-2026/
 │
 ├── notebooks/
 │   └── Analise_SINAN_Dengue_Atividade_29-09-2026.ipynb
+|   └── pre_processamento_SINAN_Dengue_POO.ipynb
 │
 ├── README.md
 │
